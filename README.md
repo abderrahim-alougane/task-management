@@ -25,6 +25,6 @@ It lets users add, mark as done, and delete tasks — all stored in memory (no d
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/taskmanager-flask.git
+git clone https://github.com/abderrahim-alougane/task-management
 cd taskmanager-flask
 ```
